@@ -2,7 +2,10 @@
 A script that generates gift codes and checks them using console
 
 
-#HowToUse
+
+
+
+# HowToUse
 
 Go to https://www.spotify.com/us/redeem/
 Press ctrl + shift + J then it will open the console
